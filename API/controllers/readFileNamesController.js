@@ -1,4 +1,4 @@
-const testFolder = "../src/assets/marriagePhotos/haldi ceremony selected/";
+const testFolder = "../src/assets/marriagePhotos/";
 const fs = require("fs");
 //readFileNamesRoutes
 const get = (req, res) => {
